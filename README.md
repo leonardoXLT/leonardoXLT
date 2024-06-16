@@ -1,10 +1,24 @@
 # Leo Tran - Software/Web Developer
 
 ## About Me
-I'm an experienced finance professional with 9+ years of expertise in treasury operations, asset management, financial products, AML/KYC, and compliance. I'm currently transitioning into software engineering through Coder Academy's Web Development Bootcamp, where I've gained proficiency in JavaScript, React, Node.js, Python, HTML/CSS, database design, cloud deployment, and DevOps principles.
+Experienced finance professional with 9+ years of expertise in treasury operations, asset management, financial products, AML/KYC, and compliance. Currently transitioning into software engineering through Coder Academy's Web Development Bootcamp, expected completion in September 2024. Proficient in JavaScript, React, Node.js, Python, HTML/CSS, and databases. Proven ability to lead teams, develop efficient systems, and provide technical support. Adept at project management, from design and planning to delivery, leveraging strong problem-solving, analytical, and communication skills. Unique finance-tech background enables a comprehensive understanding of business requirements and the ability to develop user-friendly, scalable solutions. Adaptable, detail-oriented learner seeking opportunities to leverage multidisciplinary skillset as a Software/Web Developer.
+
 
 ## Skills
-![Skills](https://cdn.mathpix.com/cropped/2024_06_16_a6e6c8657703212fd8c9g-1.jpg?height=937&width=605&top_left_y=1212&top_left_x=88)
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">
+</div>
 
 ## Education
 - Higher Education Diploma of Information Technology: Information Technology, Coder Academy (Expected 09/2024)
@@ -29,17 +43,27 @@ I'm an experienced finance professional with 9+ years of expertise in treasury o
 - Collaborated and conducted training for new staff members.
 - Led a small team of 3 payment operators, ensuring an efficient and timely payment settlement process throughout the day.
 
+**State Street Global Services - Client Cash Intern, Global Cash Operations, Sydney (06/2015 - 09/2015)**
+- Conducted banking and cash management activities, including local and foreign currency transactions, bank account reconciliations, account setups, and user access management.
+- Participated in testing new systems for Facility Agent and Security Trustee Services, utilizing experience from previous roles, assisting in decision-making processes, and successfully testing and coming up with an agreement on the system selection choice.
+
+<!--
 ## Projects
 ### [Project Name](https://github.com/username/project-repo)
 Brief description of the project, technologies used, and key features.
 
 ### [Another Project](https://github.com/username/another-repo)
 Brief description of another project, technologies used, and key features.
+-->
 
 ## Connect with Me
 - Portfolio: [leo-tran-portfolio.netlify.app](https://leo-tran-portfolio.netlify.app/)
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/leonard157/](https://www.linkedin.com/in/leonard157/)
+
+## Hobbies
+- Golf
+- Etoro Portfolio Manager (Popular investor) of a small fund ($55k+) and (25+) copiers
+- Residential and Commercial Real Estate Investing/Analysis
 
 <!--
 **leonardoXLT/leonardoXLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,4 +78,48 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Future Skill List Plan
+
+### Front-end
+- JavaScript (ES6+)
+- Responsive Web Design
+- Redux/Context API
+- Bootstrap/Material-UI
+
+### Back-end
+- Express.js
+- RESTful APIs
+- GraphQL
+- Server-side Rendering (Next.js/Nuxt.js)
+
+### Databases  
+- SQL/NoSQL
+- Database Design & Optimization
+
+### Web Technologies
+- HTTP/HTTPS
+- Web Sockets
+- JWT Authentication
+- OAuth 2.0
+
+### Cloud & DevOps
+- AWS (EC2, S3, RDS, Lambda)
+- Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
+
+### Testing & Debugging
+- Jest
+- Enzyme
+- Mocha/Chai
+- Postman
+- Chrome DevTools
+
+### Other Skills
+- TypeScript
+- Agile/Scrum
+- Project Management
+- Technical Documentation
+- Communication & Collaboration
+
 -->
